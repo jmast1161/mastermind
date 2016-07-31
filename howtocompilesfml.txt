@@ -1,0 +1,1 @@
+g++ main.cpp Game.cpp codePeg.cpp board.cpp gameTextLibrary.cpp -o main.exe -Lc:\sfml\sfml2\lib -Ic:\sfml\sfml2\include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
